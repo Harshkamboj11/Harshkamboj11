@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Harsh kumar</h1>
-<h3 align="center">"Passionate B.Tech student exploring the world of coding and technology at MMDU, eager to innovate and grow."</h3>
+# 💫 About Me:
+Hi! I’m a B.Tech first-year student at Maharishi Markandeshwar (Deemed to be University). I’m passionate about coding and technology, and I’m currently learning Data Structures and Algorithms (DSA) in C++. I enjoy solving problems and building a strong foundation in programming.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkamboj11&label=Profile%20views&color=0e75b6&style=flat" alt="harshkamboj11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkamboj11" alt="harshkamboj11" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itx._hrsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkumar11) 
 
-- 🌱 I’m currently learning **DSA in python**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshkamboj11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshkamboj11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkamboj11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I’m looking to collaborate on **projects**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harshkamboj11&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **hk8994854@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshkumar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkumar11" height="30" width="40" /></a>
-<a href="https://instagram.com/itx._hrsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itx._hrsh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshk12" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harshkamboj11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=harshkamboj11&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkamboj11&show_icons=true&locale=en&layout=compact" alt="harshkamboj11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkamboj11&show_icons=true&locale=en" alt="harshkamboj11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkamboj11&" alt="harshkamboj11" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
