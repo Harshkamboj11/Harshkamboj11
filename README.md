@@ -1,10 +1,14 @@
 # 💫 About Me:
 👨‍💻 2nd-year B.Tech student | Full-Stack Dev in progress
+<br>
 🚀 Led a national hackathon @ GEHU Haldwani
+<br>
 💻 Frontend: React, Tailwind | Backend: Node.js
-🛠️ MySQL, MongoDB | APIs | Git & GitHub
-🎬 Video editor (Premiere Pro, AE) | Blender enthusiast
-🌐 Building digital solutions with purpose
+<br>
+🛠️ MySQL, MongoDB | APIs | Git & GitHub<br>
+🎬 Video editor (Premiere Pro, AE) | Blender enthusiast<br>
+🌐 Building digital solutions with purpose<br>
+
 
 
 ## 🌐 Socials:
