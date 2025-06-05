@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi! I’m a B.Tech first-year student at Maharishi Markandeshwar (Deemed to be University). I’m passionate about coding and technology, and I’m currently learning Data Structures and Algorithms (DSA) in C++. I enjoy solving problems and building a strong foundation in programming.
+👨‍💻 2nd-year B.Tech student | Full-Stack Dev in progress
+🚀 Led a national hackathon @ GEHU Haldwani
+💻 Frontend: React, Tailwind | Backend: Node.js
+🛠️ MySQL, MongoDB | APIs | Git & GitHub
+🎬 Video editor (Premiere Pro, AE) | Blender enthusiast
+🌐 Building digital solutions with purpose
 
 
 ## 🌐 Socials:
