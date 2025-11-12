@@ -1,36 +1,52 @@
-# 💫 About Me:
-👨‍💻 2nd-year B.Tech student | Full-Stack Dev in progress
-<br>
-🚀 Led a national hackathon @ GEHU Haldwani
-<br>
-💻 Frontend: React, Tailwind | Backend: Node.js
-<br>
-🛠️ MySQL, MongoDB | APIs | Git & GitHub<br>
-🎬 Video editor (Premiere Pro, AE) | Blender enthusiast<br>
-🌐 Building digital solutions with purpose<br>
+# Hey, I'm Harsh 👋
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itx._hrsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshkumar11) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshkamboj11&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshkamboj11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkamboj11&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshkamboj11&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshkamboj11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+To make my projects work, I’ve done a bit of everything — coding, design, pitch, marketing, and whatever it takes to make something real.  
+Some worked great, some taught lessons — both count. 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshkamboj11&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ What I Build
+- [Kartiffy.in](https://kartiffy.in) — Dropshipping brand built from scratch  
+- Personal Resume Website *(in progress)*  
+- Random side projects to level up my JS & MERN skills  
+
+---
+
+## 💻 Tech Stack
+**Languages:** C++, JavaScript  
+**Frameworks & Tools:** React, Node.js, Express, MongoDB  
+**Other Skills:** Video Editing (Premiere Pro), UI/UX fundamentals  
+
+---
+
+## 🌱 Currently
+Learning, building, and experimenting with full-stack projects — slowly upgrading every line of code.  
+
+---
+
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
+</p>
+
+---
+
+## 💬 Quote I Like
+> "Make it work, make it right, make it fast." — Kent Beck  
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/AdJx1L8.png" width="250px" alt="penguin meme">
+  <br>
+  <em>I like pressing buttons... especially deploy ones 🐧</em>
+</p>
+
+---
+
+### 🌐 Connect
+<p align="center">
+  <a href="https://github.com/your-github-username"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
