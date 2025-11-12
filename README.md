@@ -19,7 +19,7 @@ Editing & Visual storytelling (Premiere Pro)
 Exploring real-world problem-solving through tech  
 
 <p align="center">
-  <img src="https://www.pinterest.com/pin/268316090289606385/" width="300px" alt="meme" />
+  <img src="https://pin.it/6UXKu2zHQ" width="300px" alt="meme" />
   <br>
   <em>I love to make backend🥲</em>
 </p>
