@@ -5,7 +5,7 @@ Some worked out well, some didn’t — but every one of them taught something w
 
 @building  
 [kartiffy.in](https://kartiffy.in) (E-commerce / Dropshipping)  
-Personal Resume (in progress – will be live soon) <br />
+Personal Resume https://personal-portfolio-v1-delta.vercel.app <br />
 Random side projects to level up my JS & MERN skills
 
 @learning  
