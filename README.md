@@ -15,10 +15,7 @@ Personal Portfolio [Live Link](https://personal-portfolio-v1-delta.vercel.app/) 
 Building secure APIs, structured backends, and scalable systems.
 
 @learning  
-Advanced Backend Architecture  
-Database Optimization (MongoDB + PostgreSQL)  
-JWT, RBAC & Access Control  
-WebSockets & Real-time Systems  
+Advanced Backend Architecture
 System Design fundamentals  
 C++ (Core + DSA)
 
