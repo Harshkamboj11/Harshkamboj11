@@ -32,9 +32,3 @@ Designing scalable backend systems
 Understanding how large systems are structured  
 Building digital products from idea to launch  
 Solving real-world problems through engineering  
-
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/a5/e6/bd/a5e6bd08c7c9c81ee843b4da4b8d9cf8.jpg" width="300px" alt="meme" />
-  <br>
-  <em>Frontend is what users see. Backend is what makes it real.</em>
-</p>
