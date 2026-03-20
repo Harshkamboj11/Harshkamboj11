@@ -11,7 +11,7 @@ Every one of them improved my engineering depth.
 [Oldlance](https://github.com/Harshkamboj11/retired-professionals-webapp) (MERN Marketplace for retired professionals)  
 [SplitWise](https://github.com/Harshkamboj11/splitWise) (TypeScript + PostgreSQL expense system)  
 [kartiffy.in](https://kartiffy.in) (E-commerce / Shopify / Funnel Optimization)  
-Personal Portfolio [Live Link](https://harsh-kumar.xyz) <br />
+Personal Portfolio [Live Link](https://harsh-kumar.xyz/) <br />
 Building secure APIs, structured backends, and scalable systems.
 
 @learning  
