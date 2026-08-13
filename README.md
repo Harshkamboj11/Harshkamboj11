@@ -30,5 +30,4 @@ Git • Postman • Debugging production issues
 Designing scalable backend systems  
 Understanding how large systems are structured  
 Building digital products from idea to launch  
-Solving real-world problems through engineerin
-
+Solving real-world problems through engineering
