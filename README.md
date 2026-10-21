@@ -3,7 +3,7 @@
 I don’t just build projects — I build systems that handle real users, real data, and real problems.
 From designing REST APIs and database schemas to implementing secure authentication and debugging production issues — I focus on what runs behind the scenes.
 
-Some projects scaled. Some broke.  
+Some projects scaled. Some broke.
 Every one of them improved my engineering depth.
 
 @building  
